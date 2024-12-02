@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.Infrastructure\bin\Debug\net8.0\eMashineManager.Web.Infrastructure.deps.json
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.Infrastructure\bin\Debug\net8.0\eMashineManager.Web.Infrastructure.dll
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.Infrastructure\bin\Debug\net8.0\eMashineManager.Web.Infrastructure.pdb
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.Infrastructure\obj\Debug\net8.0\eMashineManager.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.Infrastructure\obj\Debug\net8.0\eMashineManager.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.Infrastructure\obj\Debug\net8.0\eMashineManager.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.Infrastructure\obj\Debug\net8.0\eMashineManager.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.Infrastructure\obj\Debug\net8.0\eMashineManager.Web.Infrastructure.dll
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.Infrastructure\obj\Debug\net8.0\refint\eMashineManager.Web.Infrastructure.dll
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.Infrastructure\obj\Debug\net8.0\eMashineManager.Web.Infrastructure.pdb
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.Infrastructure\obj\Debug\net8.0\ref\eMashineManager.Web.Infrastructure.dll

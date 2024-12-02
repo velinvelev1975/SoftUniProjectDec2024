@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Common\bin\Debug\net8.0\eMashineManager.Common.deps.json
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Common\bin\Debug\net8.0\eMashineManager.Common.dll
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Common\bin\Debug\net8.0\eMashineManager.Common.pdb
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Common\obj\Debug\net8.0\eMashineManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Common\obj\Debug\net8.0\eMashineManager.Common.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Common\obj\Debug\net8.0\eMashineManager.Common.AssemblyInfo.cs
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Common\obj\Debug\net8.0\eMashineManager.Common.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Common\obj\Debug\net8.0\eMashineManager.Common.dll
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Common\obj\Debug\net8.0\refint\eMashineManager.Common.dll
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Common\obj\Debug\net8.0\eMashineManager.Common.pdb
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Common\obj\Debug\net8.0\ref\eMashineManager.Common.dll

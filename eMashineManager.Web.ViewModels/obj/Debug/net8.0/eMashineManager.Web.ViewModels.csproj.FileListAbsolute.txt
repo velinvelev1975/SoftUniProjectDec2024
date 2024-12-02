@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.ViewModels\bin\Debug\net8.0\eMashineManager.Web.ViewModels.deps.json
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.ViewModels\bin\Debug\net8.0\eMashineManager.Web.ViewModels.dll
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.ViewModels\bin\Debug\net8.0\eMashineManager.Web.ViewModels.pdb
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.ViewModels\obj\Debug\net8.0\eMashineManager.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.ViewModels\obj\Debug\net8.0\eMashineManager.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.ViewModels\obj\Debug\net8.0\eMashineManager.Web.ViewModels.AssemblyInfo.cs
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.ViewModels\obj\Debug\net8.0\eMashineManager.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.ViewModels\obj\Debug\net8.0\eMashineManager.Web.ViewModels.dll
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.ViewModels\obj\Debug\net8.0\refint\eMashineManager.Web.ViewModels.dll
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.ViewModels\obj\Debug\net8.0\eMashineManager.Web.ViewModels.pdb
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Web.ViewModels\obj\Debug\net8.0\ref\eMashineManager.Web.ViewModels.dll
