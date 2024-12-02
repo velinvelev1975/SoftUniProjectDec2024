@@ -25,4 +25,14 @@
     <ProjectReference Include="..\eMashineManager.Web.ViewModels\eMashineManager.Web.ViewModels.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="Configuration\ServiceRecordConfiguration.cs">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

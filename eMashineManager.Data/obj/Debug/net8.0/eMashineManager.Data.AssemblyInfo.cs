@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eMashineManager.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa13d210289963ef10e2a87d965274540b32581")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa682d8efc4845c70d10de20b3c46b077373a5ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("eMashineManager.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eMashineManager.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
