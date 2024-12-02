@@ -19,3 +19,4 @@ C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Data\obj\Debug\net8.
 C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Data\obj\Debug\net8.0\eMashineManager.Data.pdb
 C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Data\obj\Debug\net8.0\eMashineManager.Data.genruntimeconfig.cache
 C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Data\obj\Debug\net8.0\ref\eMashineManager.Data.dll
+C:\Users\PC\Documents\SoftUniProjectDec2024\eMashineManager.Data\obj\Debug\net8.0\eMashineManager.Data.sourcelink.json

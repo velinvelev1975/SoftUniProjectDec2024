@@ -95,6 +95,7 @@
             // AuditableEntity properties
             builder.Property(w => w.CreatedOn).IsRequired();
             builder.Property(w => w.CreatedBy).IsRequired().HasMaxLength(256);
+            builder.HasData(SeedWayBills());
         }
         private List<Waybill> SeedWayBills()
         {

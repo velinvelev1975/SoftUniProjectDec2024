@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eMashineManager.Data.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45aebf1745b359f911ba703ae727b60e5fa27b26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa13d210289963ef10e2a87d965274540b32581")]
 [assembly: System.Reflection.AssemblyProductAttribute("eMashineManager.Data.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eMashineManager.Data.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
